@@ -1,17 +1,23 @@
 # Custom IDE & Agents
-.agents/
-.idea/
-.bsp/
-.metals/
-.vscode/
+**/.agents/
+**/.idea/
+**/.bsp/
+**/.metals/
+**/.bloop/
+**/.vscode/
 
 # sbt specific
-target/
-project/target/
-project/project/
-.bloop/
+**/target/
+**/project/target/
+**/project/project/
+**/project/.bloop/
+**/metals.sbt
 
-# IDE Files
+# IDE & OS Files
 *.iml
 *.iws
 .DS_Store
+
+# Logs and local caches
+*.log
+**/null/
