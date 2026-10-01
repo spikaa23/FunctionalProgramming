@@ -1,0 +1,653 @@
+{
+  "botName": "ReflexDefenderBot",
+  "mode": "Obstacles",
+  "seed": 2026,
+  "totalTicks": 40,
+  "distance": 40,
+  "score": 195,
+  "coinsCollected": 8,
+  "timeoutsCount": 0,
+  "deathReason": null,
+  "ticks": [
+    {
+      "tick": 0,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 1,
+      "distance": 0,
+      "responseTimeUs": 45,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 1,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 2,
+      "distance": 1,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 2,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 3,
+      "distance": 2,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 3,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 4,
+      "distance": 3,
+      "responseTimeUs": 34,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 4,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 5,
+      "distance": 4,
+      "responseTimeUs": 25,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 5,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 16,
+      "distance": 5,
+      "responseTimeUs": 30,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": {"Coin": 10}, "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 6,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 17,
+      "distance": 6,
+      "responseTimeUs": 35,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 7,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 18,
+      "distance": 7,
+      "responseTimeUs": 29,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 8,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 19,
+      "distance": 8,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 9,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 20,
+      "distance": 9,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Obstacle" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 10,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 71,
+      "distance": 10,
+      "responseTimeUs": 38,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": {"Coin": 50} },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 11,
+      "lane": "Right",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 72,
+      "distance": 11,
+      "responseTimeUs": 29,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 12,
+      "lane": "Right",
+      "stance": "Ducking",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 73,
+      "distance": 12,
+      "responseTimeUs": 31,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 13,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 94,
+      "distance": 13,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": {"Coin": 20}, "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 14,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 95,
+      "distance": 14,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 15,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 106,
+      "distance": 15,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": {"Coin": 10}, "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 16,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 107,
+      "distance": 16,
+      "responseTimeUs": 33,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 17,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 108,
+      "distance": 17,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Obstacle" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 18,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 129,
+      "distance": 18,
+      "responseTimeUs": 25,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": {"Coin": 20}, "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 19,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 130,
+      "distance": 19,
+      "responseTimeUs": 30,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 20,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 141,
+      "distance": 20,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": {"Coin": 10}, "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 21,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 142,
+      "distance": 21,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 22,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 143,
+      "distance": 22,
+      "responseTimeUs": 34,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 23,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 144,
+      "distance": 23,
+      "responseTimeUs": 25,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 24,
+      "lane": "Right",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 145,
+      "distance": 24,
+      "responseTimeUs": 29,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 25,
+      "lane": "Right",
+      "stance": "Ducking",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 146,
+      "distance": 25,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 26,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 147,
+      "distance": 26,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 27,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 148,
+      "distance": 27,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Obstacle" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 28,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 149,
+      "distance": 28,
+      "responseTimeUs": 25,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 29,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 150,
+      "distance": 29,
+      "responseTimeUs": 33,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 30,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 171,
+      "distance": 30,
+      "responseTimeUs": 31,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": {"Coin": 20}, "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 31,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 172,
+      "distance": 31,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 32,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 173,
+      "distance": 32,
+      "responseTimeUs": 30,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 33,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 174,
+      "distance": 33,
+      "responseTimeUs": 29,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 34,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "Jump",
+      "alive": true,
+      "score": 175,
+      "distance": 34,
+      "responseTimeUs": 25,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 35,
+      "lane": "Center",
+      "stance": "Jumping",
+      "action": "MoveRight",
+      "alive": true,
+      "score": 176,
+      "distance": 35,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Obstacle", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 36,
+      "lane": "Right",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 177,
+      "distance": 36,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 37,
+      "lane": "Right",
+      "stance": "Ducking",
+      "action": "MoveLeft",
+      "alive": true,
+      "score": 178,
+      "distance": 37,
+      "responseTimeUs": 30,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Obstacle", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 38,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 179,
+      "distance": 38,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    },
+    {
+      "tick": 39,
+      "lane": "Center",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 180,
+      "distance": 39,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Center": { "Low": "Empty", "Mid": "Empty", "High": "Empty" },
+        "Right": { "Low": "Empty", "Mid": "Empty", "High": "Empty" }
+      }
+    }
+  ]
+}
