@@ -1,4 +1,4 @@
-scalaVersion := "3.3.3"
+scalaVersion := "3.3.8"
 name := "23_runner"
 version := "1.0.0"
 
