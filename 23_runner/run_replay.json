@@ -17,7 +17,7 @@
       "alive": true,
       "score": 1,
       "distance": 0,
-      "responseTimeUs": 36122,
+      "responseTimeUs": 27490,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -45,7 +45,7 @@
       "alive": true,
       "score": 2,
       "distance": 1,
-      "responseTimeUs": 564,
+      "responseTimeUs": 478,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -73,7 +73,7 @@
       "alive": true,
       "score": 3,
       "distance": 2,
-      "responseTimeUs": 419,
+      "responseTimeUs": 319,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -101,7 +101,7 @@
       "alive": true,
       "score": 4,
       "distance": 3,
-      "responseTimeUs": 415,
+      "responseTimeUs": 388,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -129,7 +129,7 @@
       "alive": true,
       "score": 5,
       "distance": 4,
-      "responseTimeUs": 231,
+      "responseTimeUs": 195,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -157,7 +157,7 @@
       "alive": true,
       "score": 6,
       "distance": 5,
-      "responseTimeUs": 133,
+      "responseTimeUs": 102,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -185,7 +185,7 @@
       "alive": true,
       "score": 7,
       "distance": 6,
-      "responseTimeUs": 240,
+      "responseTimeUs": 102,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -213,7 +213,7 @@
       "alive": true,
       "score": 8,
       "distance": 7,
-      "responseTimeUs": 188,
+      "responseTimeUs": 121,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -241,7 +241,7 @@
       "alive": true,
       "score": 9,
       "distance": 8,
-      "responseTimeUs": 167,
+      "responseTimeUs": 114,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -269,7 +269,7 @@
       "alive": true,
       "score": 10,
       "distance": 9,
-      "responseTimeUs": 130,
+      "responseTimeUs": 108,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -297,7 +297,7 @@
       "alive": true,
       "score": 11,
       "distance": 10,
-      "responseTimeUs": 191,
+      "responseTimeUs": 135,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -325,7 +325,7 @@
       "alive": true,
       "score": 12,
       "distance": 11,
-      "responseTimeUs": 140,
+      "responseTimeUs": 181,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -353,7 +353,7 @@
       "alive": true,
       "score": 13,
       "distance": 12,
-      "responseTimeUs": 160,
+      "responseTimeUs": 99,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -381,7 +381,7 @@
       "alive": true,
       "score": 14,
       "distance": 13,
-      "responseTimeUs": 188,
+      "responseTimeUs": 119,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -409,7 +409,7 @@
       "alive": true,
       "score": 15,
       "distance": 14,
-      "responseTimeUs": 158,
+      "responseTimeUs": 126,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -437,7 +437,7 @@
       "alive": true,
       "score": 16,
       "distance": 15,
-      "responseTimeUs": 124,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -465,7 +465,7 @@
       "alive": true,
       "score": 37,
       "distance": 16,
-      "responseTimeUs": 118,
+      "responseTimeUs": 84,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -493,7 +493,7 @@
       "alive": true,
       "score": 38,
       "distance": 17,
-      "responseTimeUs": 165,
+      "responseTimeUs": 116,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -521,7 +521,7 @@
       "alive": true,
       "score": 39,
       "distance": 18,
-      "responseTimeUs": 131,
+      "responseTimeUs": 142,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -549,7 +549,7 @@
       "alive": true,
       "score": 40,
       "distance": 19,
-      "responseTimeUs": 152,
+      "responseTimeUs": 109,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -577,7 +577,7 @@
       "alive": true,
       "score": 41,
       "distance": 20,
-      "responseTimeUs": 137,
+      "responseTimeUs": 157,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -605,7 +605,7 @@
       "alive": true,
       "score": 42,
       "distance": 21,
-      "responseTimeUs": 134,
+      "responseTimeUs": 119,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -633,7 +633,7 @@
       "alive": true,
       "score": 43,
       "distance": 22,
-      "responseTimeUs": 114,
+      "responseTimeUs": 92,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -661,7 +661,7 @@
       "alive": true,
       "score": 44,
       "distance": 23,
-      "responseTimeUs": 136,
+      "responseTimeUs": 102,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -689,7 +689,7 @@
       "alive": true,
       "score": 45,
       "distance": 24,
-      "responseTimeUs": 160,
+      "responseTimeUs": 149,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -717,7 +717,7 @@
       "alive": true,
       "score": 46,
       "distance": 25,
-      "responseTimeUs": 123,
+      "responseTimeUs": 120,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -745,7 +745,7 @@
       "alive": true,
       "score": 47,
       "distance": 26,
-      "responseTimeUs": 117,
+      "responseTimeUs": 87,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -773,7 +773,7 @@
       "alive": true,
       "score": 48,
       "distance": 27,
-      "responseTimeUs": 152,
+      "responseTimeUs": 96,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -801,7 +801,7 @@
       "alive": true,
       "score": 49,
       "distance": 28,
-      "responseTimeUs": 114,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -829,7 +829,7 @@
       "alive": true,
       "score": 50,
       "distance": 29,
-      "responseTimeUs": 193,
+      "responseTimeUs": 78,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -857,7 +857,7 @@
       "alive": true,
       "score": 51,
       "distance": 30,
-      "responseTimeUs": 118,
+      "responseTimeUs": 77,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -885,7 +885,7 @@
       "alive": true,
       "score": 52,
       "distance": 31,
-      "responseTimeUs": 124,
+      "responseTimeUs": 93,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -913,7 +913,7 @@
       "alive": true,
       "score": 53,
       "distance": 32,
-      "responseTimeUs": 104,
+      "responseTimeUs": 97,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -941,7 +941,7 @@
       "alive": true,
       "score": 54,
       "distance": 33,
-      "responseTimeUs": 110,
+      "responseTimeUs": 112,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -969,7 +969,7 @@
       "alive": true,
       "score": 55,
       "distance": 34,
-      "responseTimeUs": 120,
+      "responseTimeUs": 96,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -997,7 +997,7 @@
       "alive": true,
       "score": 56,
       "distance": 35,
-      "responseTimeUs": 106,
+      "responseTimeUs": 110,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1025,7 +1025,7 @@
       "alive": true,
       "score": 77,
       "distance": 36,
-      "responseTimeUs": 103,
+      "responseTimeUs": 94,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1053,7 +1053,7 @@
       "alive": true,
       "score": 78,
       "distance": 37,
-      "responseTimeUs": 113,
+      "responseTimeUs": 141,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1081,7 +1081,7 @@
       "alive": true,
       "score": 79,
       "distance": 38,
-      "responseTimeUs": 87,
+      "responseTimeUs": 90,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1137,7 +1137,7 @@
       "alive": true,
       "score": 101,
       "distance": 40,
-      "responseTimeUs": 111,
+      "responseTimeUs": 103,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1165,7 +1165,7 @@
       "alive": true,
       "score": 102,
       "distance": 41,
-      "responseTimeUs": 112,
+      "responseTimeUs": 128,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1193,7 +1193,7 @@
       "alive": true,
       "score": 103,
       "distance": 42,
-      "responseTimeUs": 124,
+      "responseTimeUs": 99,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1221,7 +1221,7 @@
       "alive": true,
       "score": 104,
       "distance": 43,
-      "responseTimeUs": 103,
+      "responseTimeUs": 118,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1249,7 +1249,7 @@
       "alive": true,
       "score": 105,
       "distance": 44,
-      "responseTimeUs": 84,
+      "responseTimeUs": 90,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1277,7 +1277,7 @@
       "alive": true,
       "score": 106,
       "distance": 45,
-      "responseTimeUs": 172,
+      "responseTimeUs": 79,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1305,7 +1305,7 @@
       "alive": true,
       "score": 107,
       "distance": 46,
-      "responseTimeUs": 165,
+      "responseTimeUs": 66,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1333,7 +1333,7 @@
       "alive": true,
       "score": 108,
       "distance": 47,
-      "responseTimeUs": 104,
+      "responseTimeUs": 82,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1361,7 +1361,7 @@
       "alive": true,
       "score": 109,
       "distance": 48,
-      "responseTimeUs": 396,
+      "responseTimeUs": 277,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1389,7 +1389,7 @@
       "alive": true,
       "score": 110,
       "distance": 49,
-      "responseTimeUs": 228,
+      "responseTimeUs": 118,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1417,7 +1417,7 @@
       "alive": true,
       "score": 111,
       "distance": 50,
-      "responseTimeUs": 141,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1445,7 +1445,7 @@
       "alive": true,
       "score": 112,
       "distance": 51,
-      "responseTimeUs": 140,
+      "responseTimeUs": 94,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1473,7 +1473,7 @@
       "alive": true,
       "score": 113,
       "distance": 52,
-      "responseTimeUs": 134,
+      "responseTimeUs": 92,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1501,7 +1501,7 @@
       "alive": true,
       "score": 114,
       "distance": 53,
-      "responseTimeUs": 115,
+      "responseTimeUs": 71,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1529,7 +1529,7 @@
       "alive": true,
       "score": 115,
       "distance": 54,
-      "responseTimeUs": 102,
+      "responseTimeUs": 69,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1557,7 +1557,7 @@
       "alive": true,
       "score": 116,
       "distance": 55,
-      "responseTimeUs": 136,
+      "responseTimeUs": 92,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1585,7 +1585,7 @@
       "alive": true,
       "score": 117,
       "distance": 56,
-      "responseTimeUs": 116,
+      "responseTimeUs": 69,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1613,7 +1613,7 @@
       "alive": true,
       "score": 138,
       "distance": 57,
-      "responseTimeUs": 133,
+      "responseTimeUs": 79,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1641,7 +1641,7 @@
       "alive": true,
       "score": 139,
       "distance": 58,
-      "responseTimeUs": 128,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1669,7 +1669,7 @@
       "alive": true,
       "score": 140,
       "distance": 59,
-      "responseTimeUs": 101,
+      "responseTimeUs": 76,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1697,7 +1697,7 @@
       "alive": true,
       "score": 141,
       "distance": 60,
-      "responseTimeUs": 99,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1725,7 +1725,7 @@
       "alive": true,
       "score": 142,
       "distance": 61,
-      "responseTimeUs": 85,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1753,7 +1753,7 @@
       "alive": true,
       "score": 143,
       "distance": 62,
-      "responseTimeUs": 125,
+      "responseTimeUs": 100,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1781,7 +1781,7 @@
       "alive": true,
       "score": 144,
       "distance": 63,
-      "responseTimeUs": 118,
+      "responseTimeUs": 111,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1809,7 +1809,7 @@
       "alive": true,
       "score": 145,
       "distance": 64,
-      "responseTimeUs": 155,
+      "responseTimeUs": 166,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1837,7 +1837,7 @@
       "alive": true,
       "score": 146,
       "distance": 65,
-      "responseTimeUs": 101,
+      "responseTimeUs": 87,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1865,7 +1865,7 @@
       "alive": true,
       "score": 147,
       "distance": 66,
-      "responseTimeUs": 245,
+      "responseTimeUs": 128,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1893,7 +1893,7 @@
       "alive": true,
       "score": 148,
       "distance": 67,
-      "responseTimeUs": 143,
+      "responseTimeUs": 157,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1921,7 +1921,7 @@
       "alive": true,
       "score": 149,
       "distance": 68,
-      "responseTimeUs": 114,
+      "responseTimeUs": 119,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1949,7 +1949,7 @@
       "alive": true,
       "score": 150,
       "distance": 69,
-      "responseTimeUs": 152,
+      "responseTimeUs": 154,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1977,7 +1977,7 @@
       "alive": true,
       "score": 151,
       "distance": 70,
-      "responseTimeUs": 219,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2005,7 +2005,7 @@
       "alive": true,
       "score": 152,
       "distance": 71,
-      "responseTimeUs": 128,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2033,7 +2033,7 @@
       "alive": true,
       "score": 153,
       "distance": 72,
-      "responseTimeUs": 143,
+      "responseTimeUs": 75,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2061,7 +2061,7 @@
       "alive": true,
       "score": 154,
       "distance": 73,
-      "responseTimeUs": 136,
+      "responseTimeUs": 76,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2089,7 +2089,7 @@
       "alive": true,
       "score": 155,
       "distance": 74,
-      "responseTimeUs": 144,
+      "responseTimeUs": 94,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2117,7 +2117,7 @@
       "alive": true,
       "score": 156,
       "distance": 75,
-      "responseTimeUs": 146,
+      "responseTimeUs": 79,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2145,7 +2145,7 @@
       "alive": true,
       "score": 157,
       "distance": 76,
-      "responseTimeUs": 144,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2173,7 +2173,7 @@
       "alive": true,
       "score": 158,
       "distance": 77,
-      "responseTimeUs": 128,
+      "responseTimeUs": 112,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2201,7 +2201,7 @@
       "alive": true,
       "score": 159,
       "distance": 78,
-      "responseTimeUs": 101,
+      "responseTimeUs": 119,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2229,7 +2229,7 @@
       "alive": true,
       "score": 160,
       "distance": 79,
-      "responseTimeUs": 135,
+      "responseTimeUs": 148,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2257,7 +2257,7 @@
       "alive": true,
       "score": 161,
       "distance": 80,
-      "responseTimeUs": 105,
+      "responseTimeUs": 108,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2285,7 +2285,7 @@
       "alive": true,
       "score": 162,
       "distance": 81,
-      "responseTimeUs": 114,
+      "responseTimeUs": 148,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2313,7 +2313,7 @@
       "alive": true,
       "score": 183,
       "distance": 82,
-      "responseTimeUs": 92,
+      "responseTimeUs": 101,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2341,7 +2341,7 @@
       "alive": true,
       "score": 184,
       "distance": 83,
-      "responseTimeUs": 85,
+      "responseTimeUs": 133,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2369,7 +2369,7 @@
       "alive": true,
       "score": 185,
       "distance": 84,
-      "responseTimeUs": 150,
+      "responseTimeUs": 113,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2397,7 +2397,7 @@
       "alive": true,
       "score": 186,
       "distance": 85,
-      "responseTimeUs": 100,
+      "responseTimeUs": 111,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2425,7 +2425,7 @@
       "alive": true,
       "score": 187,
       "distance": 86,
-      "responseTimeUs": 143,
+      "responseTimeUs": 102,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2453,7 +2453,7 @@
       "alive": true,
       "score": 188,
       "distance": 87,
-      "responseTimeUs": 172,
+      "responseTimeUs": 86,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2481,7 +2481,7 @@
       "alive": true,
       "score": 189,
       "distance": 88,
-      "responseTimeUs": 132,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2509,7 +2509,7 @@
       "alive": true,
       "score": 190,
       "distance": 89,
-      "responseTimeUs": 129,
+      "responseTimeUs": 114,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2537,7 +2537,7 @@
       "alive": true,
       "score": 191,
       "distance": 90,
-      "responseTimeUs": 103,
+      "responseTimeUs": 90,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2565,7 +2565,7 @@
       "alive": true,
       "score": 192,
       "distance": 91,
-      "responseTimeUs": 124,
+      "responseTimeUs": 105,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2593,7 +2593,7 @@
       "alive": true,
       "score": 193,
       "distance": 92,
-      "responseTimeUs": 104,
+      "responseTimeUs": 68,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2621,7 +2621,7 @@
       "alive": true,
       "score": 194,
       "distance": 93,
-      "responseTimeUs": 132,
+      "responseTimeUs": 130,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2649,7 +2649,7 @@
       "alive": true,
       "score": 195,
       "distance": 94,
-      "responseTimeUs": 104,
+      "responseTimeUs": 89,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2677,7 +2677,7 @@
       "alive": true,
       "score": 196,
       "distance": 95,
-      "responseTimeUs": 151,
+      "responseTimeUs": 95,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2705,7 +2705,7 @@
       "alive": true,
       "score": 197,
       "distance": 96,
-      "responseTimeUs": 132,
+      "responseTimeUs": 109,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2733,7 +2733,7 @@
       "alive": true,
       "score": 198,
       "distance": 97,
-      "responseTimeUs": 189,
+      "responseTimeUs": 100,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2761,7 +2761,7 @@
       "alive": true,
       "score": 199,
       "distance": 98,
-      "responseTimeUs": 112,
+      "responseTimeUs": 97,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2789,7 +2789,7 @@
       "alive": true,
       "score": 200,
       "distance": 99,
-      "responseTimeUs": 196,
+      "responseTimeUs": 92,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2817,7 +2817,7 @@
       "alive": true,
       "score": 201,
       "distance": 100,
-      "responseTimeUs": 161,
+      "responseTimeUs": 82,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2845,7 +2845,7 @@
       "alive": true,
       "score": 202,
       "distance": 101,
-      "responseTimeUs": 106,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2873,7 +2873,7 @@
       "alive": true,
       "score": 203,
       "distance": 102,
-      "responseTimeUs": 110,
+      "responseTimeUs": 76,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2901,7 +2901,7 @@
       "alive": true,
       "score": 204,
       "distance": 103,
-      "responseTimeUs": 148,
+      "responseTimeUs": 107,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2929,7 +2929,7 @@
       "alive": true,
       "score": 205,
       "distance": 104,
-      "responseTimeUs": 147,
+      "responseTimeUs": 95,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2957,7 +2957,7 @@
       "alive": true,
       "score": 206,
       "distance": 105,
-      "responseTimeUs": 129,
+      "responseTimeUs": 96,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2985,7 +2985,7 @@
       "alive": true,
       "score": 207,
       "distance": 106,
-      "responseTimeUs": 82,
+      "responseTimeUs": 86,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3013,7 +3013,7 @@
       "alive": true,
       "score": 208,
       "distance": 107,
-      "responseTimeUs": 87,
+      "responseTimeUs": 77,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3041,7 +3041,7 @@
       "alive": true,
       "score": 209,
       "distance": 108,
-      "responseTimeUs": 78,
+      "responseTimeUs": 67,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3069,7 +3069,7 @@
       "alive": true,
       "score": 210,
       "distance": 109,
-      "responseTimeUs": 98,
+      "responseTimeUs": 77,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3097,7 +3097,7 @@
       "alive": true,
       "score": 211,
       "distance": 110,
-      "responseTimeUs": 82,
+      "responseTimeUs": 64,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3125,7 +3125,7 @@
       "alive": true,
       "score": 212,
       "distance": 111,
-      "responseTimeUs": 74,
+      "responseTimeUs": 67,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3181,7 +3181,7 @@
       "alive": true,
       "score": 214,
       "distance": 113,
-      "responseTimeUs": 134,
+      "responseTimeUs": 87,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3209,7 +3209,7 @@
       "alive": true,
       "score": 215,
       "distance": 114,
-      "responseTimeUs": 124,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3237,7 +3237,7 @@
       "alive": true,
       "score": 216,
       "distance": 115,
-      "responseTimeUs": 128,
+      "responseTimeUs": 92,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3265,7 +3265,7 @@
       "alive": true,
       "score": 217,
       "distance": 116,
-      "responseTimeUs": 148,
+      "responseTimeUs": 97,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3293,7 +3293,7 @@
       "alive": true,
       "score": 218,
       "distance": 117,
-      "responseTimeUs": 80,
+      "responseTimeUs": 69,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3321,7 +3321,7 @@
       "alive": true,
       "score": 219,
       "distance": 118,
-      "responseTimeUs": 73,
+      "responseTimeUs": 65,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3349,7 +3349,7 @@
       "alive": true,
       "score": 220,
       "distance": 119,
-      "responseTimeUs": 106,
+      "responseTimeUs": 73,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3377,7 +3377,7 @@
       "alive": true,
       "score": 221,
       "distance": 120,
-      "responseTimeUs": 86,
+      "responseTimeUs": 65,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3405,7 +3405,7 @@
       "alive": true,
       "score": 252,
       "distance": 121,
-      "responseTimeUs": 96,
+      "responseTimeUs": 108,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3433,7 +3433,7 @@
       "alive": true,
       "score": 253,
       "distance": 122,
-      "responseTimeUs": 80,
+      "responseTimeUs": 73,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3461,7 +3461,7 @@
       "alive": true,
       "score": 254,
       "distance": 123,
-      "responseTimeUs": 82,
+      "responseTimeUs": 70,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3489,7 +3489,7 @@
       "alive": true,
       "score": 285,
       "distance": 124,
-      "responseTimeUs": 128,
+      "responseTimeUs": 68,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3517,7 +3517,7 @@
       "alive": true,
       "score": 286,
       "distance": 125,
-      "responseTimeUs": 132,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3545,7 +3545,7 @@
       "alive": true,
       "score": 287,
       "distance": 126,
-      "responseTimeUs": 159,
+      "responseTimeUs": 82,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3573,7 +3573,7 @@
       "alive": true,
       "score": 288,
       "distance": 127,
-      "responseTimeUs": 207,
+      "responseTimeUs": 115,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3601,7 +3601,7 @@
       "alive": true,
       "score": 289,
       "distance": 128,
-      "responseTimeUs": 104,
+      "responseTimeUs": 66,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3629,7 +3629,7 @@
       "alive": true,
       "score": 290,
       "distance": 129,
-      "responseTimeUs": 111,
+      "responseTimeUs": 70,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3657,7 +3657,7 @@
       "alive": true,
       "score": 291,
       "distance": 130,
-      "responseTimeUs": 231,
+      "responseTimeUs": 112,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3685,7 +3685,7 @@
       "alive": true,
       "score": 292,
       "distance": 131,
-      "responseTimeUs": 157,
+      "responseTimeUs": 94,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3713,7 +3713,7 @@
       "alive": true,
       "score": 293,
       "distance": 132,
-      "responseTimeUs": 108,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3741,7 +3741,7 @@
       "alive": true,
       "score": 294,
       "distance": 133,
-      "responseTimeUs": 117,
+      "responseTimeUs": 106,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3769,7 +3769,7 @@
       "alive": true,
       "score": 295,
       "distance": 134,
-      "responseTimeUs": 110,
+      "responseTimeUs": 100,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3797,7 +3797,7 @@
       "alive": true,
       "score": 296,
       "distance": 135,
-      "responseTimeUs": 95,
+      "responseTimeUs": 89,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3825,7 +3825,7 @@
       "alive": true,
       "score": 297,
       "distance": 136,
-      "responseTimeUs": 93,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3853,7 +3853,7 @@
       "alive": true,
       "score": 298,
       "distance": 137,
-      "responseTimeUs": 74,
+      "responseTimeUs": 65,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3881,7 +3881,7 @@
       "alive": true,
       "score": 299,
       "distance": 138,
-      "responseTimeUs": 81,
+      "responseTimeUs": 64,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3909,7 +3909,7 @@
       "alive": true,
       "score": 300,
       "distance": 139,
-      "responseTimeUs": 107,
+      "responseTimeUs": 80,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3937,7 +3937,7 @@
       "alive": true,
       "score": 301,
       "distance": 140,
-      "responseTimeUs": 165,
+      "responseTimeUs": 157,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3965,7 +3965,7 @@
       "alive": true,
       "score": 302,
       "distance": 141,
-      "responseTimeUs": 110,
+      "responseTimeUs": 101,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3993,7 +3993,7 @@
       "alive": true,
       "score": 303,
       "distance": 142,
-      "responseTimeUs": 88,
+      "responseTimeUs": 76,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4021,7 +4021,7 @@
       "alive": true,
       "score": 304,
       "distance": 143,
-      "responseTimeUs": 105,
+      "responseTimeUs": 84,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4049,7 +4049,7 @@
       "alive": true,
       "score": 305,
       "distance": 144,
-      "responseTimeUs": 106,
+      "responseTimeUs": 66,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4077,7 +4077,7 @@
       "alive": true,
       "score": 306,
       "distance": 145,
-      "responseTimeUs": 101,
+      "responseTimeUs": 89,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4105,7 +4105,7 @@
       "alive": true,
       "score": 307,
       "distance": 146,
-      "responseTimeUs": 93,
+      "responseTimeUs": 67,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4133,7 +4133,7 @@
       "alive": true,
       "score": 308,
       "distance": 147,
-      "responseTimeUs": 110,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4161,7 +4161,7 @@
       "alive": true,
       "score": 309,
       "distance": 148,
-      "responseTimeUs": 96,
+      "responseTimeUs": 88,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4189,7 +4189,7 @@
       "alive": true,
       "score": 330,
       "distance": 149,
-      "responseTimeUs": 80,
+      "responseTimeUs": 64,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4217,7 +4217,7 @@
       "alive": true,
       "score": 331,
       "distance": 150,
-      "responseTimeUs": 109,
+      "responseTimeUs": 100,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4245,7 +4245,7 @@
       "alive": true,
       "score": 332,
       "distance": 151,
-      "responseTimeUs": 92,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4273,7 +4273,7 @@
       "alive": true,
       "score": 333,
       "distance": 152,
-      "responseTimeUs": 121,
+      "responseTimeUs": 58,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4301,7 +4301,7 @@
       "alive": true,
       "score": 334,
       "distance": 153,
-      "responseTimeUs": 104,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4329,7 +4329,7 @@
       "alive": true,
       "score": 335,
       "distance": 154,
-      "responseTimeUs": 154,
+      "responseTimeUs": 74,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4357,7 +4357,7 @@
       "alive": true,
       "score": 336,
       "distance": 155,
-      "responseTimeUs": 123,
+      "responseTimeUs": 66,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4385,7 +4385,7 @@
       "alive": true,
       "score": 337,
       "distance": 156,
-      "responseTimeUs": 145,
+      "responseTimeUs": 78,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4413,7 +4413,7 @@
       "alive": true,
       "score": 338,
       "distance": 157,
-      "responseTimeUs": 137,
+      "responseTimeUs": 90,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4441,7 +4441,7 @@
       "alive": true,
       "score": 349,
       "distance": 158,
-      "responseTimeUs": 232,
+      "responseTimeUs": 102,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4469,7 +4469,7 @@
       "alive": true,
       "score": 350,
       "distance": 159,
-      "responseTimeUs": 129,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4497,7 +4497,7 @@
       "alive": true,
       "score": 351,
       "distance": 160,
-      "responseTimeUs": 111,
+      "responseTimeUs": 99,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4525,7 +4525,7 @@
       "alive": true,
       "score": 352,
       "distance": 161,
-      "responseTimeUs": 302,
+      "responseTimeUs": 73,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4553,7 +4553,7 @@
       "alive": true,
       "score": 353,
       "distance": 162,
-      "responseTimeUs": 110,
+      "responseTimeUs": 70,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4581,7 +4581,7 @@
       "alive": true,
       "score": 354,
       "distance": 163,
-      "responseTimeUs": 87,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4609,7 +4609,7 @@
       "alive": true,
       "score": 355,
       "distance": 164,
-      "responseTimeUs": 132,
+      "responseTimeUs": 87,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4637,7 +4637,7 @@
       "alive": true,
       "score": 356,
       "distance": 165,
-      "responseTimeUs": 92,
+      "responseTimeUs": 76,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4665,7 +4665,7 @@
       "alive": true,
       "score": 357,
       "distance": 166,
-      "responseTimeUs": 102,
+      "responseTimeUs": 78,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4693,7 +4693,7 @@
       "alive": true,
       "score": 358,
       "distance": 167,
-      "responseTimeUs": 89,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4721,7 +4721,7 @@
       "alive": true,
       "score": 359,
       "distance": 168,
-      "responseTimeUs": 92,
+      "responseTimeUs": 73,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4749,7 +4749,7 @@
       "alive": true,
       "score": 380,
       "distance": 169,
-      "responseTimeUs": 87,
+      "responseTimeUs": 74,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4805,7 +4805,7 @@
       "alive": true,
       "score": 392,
       "distance": 171,
-      "responseTimeUs": 81,
+      "responseTimeUs": 74,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4833,7 +4833,7 @@
       "alive": true,
       "score": 393,
       "distance": 172,
-      "responseTimeUs": 84,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4861,7 +4861,7 @@
       "alive": true,
       "score": 394,
       "distance": 173,
-      "responseTimeUs": 101,
+      "responseTimeUs": 97,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4889,7 +4889,7 @@
       "alive": true,
       "score": 395,
       "distance": 174,
-      "responseTimeUs": 113,
+      "responseTimeUs": 64,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4917,7 +4917,7 @@
       "alive": true,
       "score": 396,
       "distance": 175,
-      "responseTimeUs": 88,
+      "responseTimeUs": 61,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4945,7 +4945,7 @@
       "alive": true,
       "score": 397,
       "distance": 176,
-      "responseTimeUs": 97,
+      "responseTimeUs": 58,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4973,7 +4973,7 @@
       "alive": true,
       "score": 398,
       "distance": 177,
-      "responseTimeUs": 123,
+      "responseTimeUs": 66,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5001,7 +5001,7 @@
       "alive": true,
       "score": 399,
       "distance": 178,
-      "responseTimeUs": 110,
+      "responseTimeUs": 57,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5029,7 +5029,7 @@
       "alive": true,
       "score": 400,
       "distance": 179,
-      "responseTimeUs": 123,
+      "responseTimeUs": 56,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5057,7 +5057,7 @@
       "alive": true,
       "score": 401,
       "distance": 180,
-      "responseTimeUs": 141,
+      "responseTimeUs": 59,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5085,7 +5085,7 @@
       "alive": true,
       "score": 402,
       "distance": 181,
-      "responseTimeUs": 130,
+      "responseTimeUs": 142,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5113,7 +5113,7 @@
       "alive": true,
       "score": 403,
       "distance": 182,
-      "responseTimeUs": 126,
+      "responseTimeUs": 109,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5141,7 +5141,7 @@
       "alive": true,
       "score": 404,
       "distance": 183,
-      "responseTimeUs": 101,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5169,7 +5169,7 @@
       "alive": true,
       "score": 405,
       "distance": 184,
-      "responseTimeUs": 114,
+      "responseTimeUs": 117,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5197,7 +5197,7 @@
       "alive": true,
       "score": 406,
       "distance": 185,
-      "responseTimeUs": 143,
+      "responseTimeUs": 81,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5225,7 +5225,7 @@
       "alive": true,
       "score": 407,
       "distance": 186,
-      "responseTimeUs": 119,
+      "responseTimeUs": 70,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5253,7 +5253,7 @@
       "alive": true,
       "score": 408,
       "distance": 187,
-      "responseTimeUs": 119,
+      "responseTimeUs": 68,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5281,7 +5281,7 @@
       "alive": true,
       "score": 409,
       "distance": 188,
-      "responseTimeUs": 134,
+      "responseTimeUs": 156,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5309,7 +5309,7 @@
       "alive": true,
       "score": 410,
       "distance": 189,
-      "responseTimeUs": 89,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5337,7 +5337,7 @@
       "alive": true,
       "score": 411,
       "distance": 190,
-      "responseTimeUs": 96,
+      "responseTimeUs": 106,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5365,7 +5365,7 @@
       "alive": true,
       "score": 412,
       "distance": 191,
-      "responseTimeUs": 88,
+      "responseTimeUs": 75,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5393,7 +5393,7 @@
       "alive": true,
       "score": 413,
       "distance": 192,
-      "responseTimeUs": 107,
+      "responseTimeUs": 89,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5421,7 +5421,7 @@
       "alive": true,
       "score": 414,
       "distance": 193,
-      "responseTimeUs": 113,
+      "responseTimeUs": 67,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5449,7 +5449,7 @@
       "alive": true,
       "score": 415,
       "distance": 194,
-      "responseTimeUs": 117,
+      "responseTimeUs": 80,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5477,7 +5477,7 @@
       "alive": true,
       "score": 416,
       "distance": 195,
-      "responseTimeUs": 94,
+      "responseTimeUs": 62,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5505,7 +5505,7 @@
       "alive": true,
       "score": 417,
       "distance": 196,
-      "responseTimeUs": 85,
+      "responseTimeUs": 65,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5533,7 +5533,7 @@
       "alive": true,
       "score": 418,
       "distance": 197,
-      "responseTimeUs": 91,
+      "responseTimeUs": 86,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5561,7 +5561,7 @@
       "alive": true,
       "score": 419,
       "distance": 198,
-      "responseTimeUs": 75,
+      "responseTimeUs": 71,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -5589,7 +5589,7 @@
       "alive": true,
       "score": 420,
       "distance": 199,
-      "responseTimeUs": 121,
+      "responseTimeUs": 79,
       "timedOut": false,
       "slice": {
         "Left": {
