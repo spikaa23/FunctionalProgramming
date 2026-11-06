@@ -3,7 +3,7 @@ package loyalty
 enum LoyaltyEvent:
     case PointsEarned(checkAmount: Double)
     case PointsRedeemed(points: Int, drinksCount: Int = 1)
-    case BirthdayBonus(bonusPoints: Int)
+    case BirthdayBonus(bonusPoints: Int = 50)
     case InactivityPenalty(expiredPoints: Int)
 
 

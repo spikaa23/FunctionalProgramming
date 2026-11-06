@@ -11,19 +11,20 @@ class LoyaltyServiceTest extends AnyFunSuite:
             PointsEarned(125.0),                  // +12 
             PointsEarned(8.0),                    // +0 (чек < 10 грн не йде в історію)
             PointsEarned(340.0),                  // +34 (46)
-            BirthdayBonus(50),                    // +50 (96)
+            BirthdayBonus(),                      // +50 (96)
             PointsRedeemed(40, drinksCount = 2),  // -40 за 2 кави (56, 2)
             PointsEarned(140.0),                  // +14 (70)
             PointsRedeemed(40, drinksCount = 1),  // -40 за 1 каву (30, 3)
             PointsEarned(490.0),                  // +49 (79)
-            InactivityPenalty(30)                 // -30 згоріло (49)
+            InactivityPenalty(30),                // -30 згоріло (49)
+            BirthdayBonus(30)                     // +30 (79)
         )
 
         val result = LoyaltyService.processEvents(events)
 
         assert(result.isRight)
         result.foreach { finalState =>
-            assert(LoyaltyService.currentBalance(finalState) == 49)
+            assert(LoyaltyService.currentBalance(finalState) == 79)
             assert(LoyaltyService.totalFreeDrinks(finalState) == 3)
             assert(LoyaltyService.top3Checks(finalState) == List(490.0, 340.0, 140.0))
         }

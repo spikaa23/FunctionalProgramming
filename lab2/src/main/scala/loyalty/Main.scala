@@ -12,13 +12,14 @@ object Main:
             PointsEarned(125.0),
             PointsEarned(8.0),
             PointsEarned(340.0),
-            BirthdayBonus(50),
+            BirthdayBonus(),
             PointsRedeemed(40, drinksCount = 2),
             PointsRedeemed(200, drinksCount = 5),
             PointsEarned(140.0),
             PointsRedeemed(40, drinksCount = 1),
             PointsEarned(490.0),
-            InactivityPenalty(30)
+            InactivityPenalty(30),
+            BirthdayBonus(30)
         )
 
         val (finalState, rejectedErrors) = LoyaltyService.processEventsWithAudit(demoEvents)
