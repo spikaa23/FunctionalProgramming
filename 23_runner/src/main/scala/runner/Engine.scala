@@ -139,7 +139,7 @@ class Engine(
         val timeoutLimit = budgetNanos.nanos
 
         // Ізоляція виклику bot.decide в окремому Future на виділеному botExecutionContext (запобігає starvation глобального пулу CPU)
-        val decisionFuture = Future(bot.decide(observation))(Engine.botExecutionContext)
+        val decisionFuture = Future(bot.decide(observation))(using Engine.botExecutionContext)
 
         val (botAction, wasTimeout, wasException) =
           try
